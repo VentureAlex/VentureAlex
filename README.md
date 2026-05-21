@@ -1,6 +1,4 @@
-To the moon!
-
-<!---
-VentureAlex/VentureAlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Alex and I have 3 cores values: 
+  1. Intellectually Curious
+  2. Abundance Mindset
+  3. Execution through Action
