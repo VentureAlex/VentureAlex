@@ -13,3 +13,5 @@ Interested in:
 • AI
 • Cloud Technologies
 • APIs
+• Camping
+• Dogs
