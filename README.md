@@ -16,3 +16,23 @@ Interested in:
 • Camping
 • Dogs
 • Snowboarding
+• 
+
+Operating Systems:
+• Windows
+• Linux (Ubuntu, RHEL)
+• MacOS
+
+Cloud:
+• Amazon Web Services (AWS)
+• Google Cloud Platform (GCP)
+
+Networking:
+
+
+Applications:
+• Notion
+• Google Suite (Docs, Sheets)
+• Gainsight
+• Coveo
+• Salesforce
