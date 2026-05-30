@@ -16,7 +16,7 @@ Interested in:
 • Camping
 • Dogs
 • Snowboarding
-• 
+• hiking
 
 Operating Systems:
 • Windows
