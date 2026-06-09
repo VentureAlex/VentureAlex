@@ -1,6 +1,7 @@
-Hi! I'm Alex 
+Hi, I'm Alex!
 
-I have 3 cores values: 
-  1. Intellectually Curious
-  2. Abundance Mindset
-  3. Execution through Action
+This is my GitHub. Home to my passion projects and experiments. I'm driven by three core principles: curiosity as the spark of innovation, an abundance mindset, and a bias toward execution.
+
+For the full picture, visit my portfolio at venturealex.com
+
+Thank you!
