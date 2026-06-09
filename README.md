@@ -1,7 +1,10 @@
 Hi, I'm Alex!
 
-This is my GitHub. Home to my passion projects and experiments. I'm driven by three core principles: curiosity as the spark of innovation, an abundance mindset, and a bias toward execution.
+Welcome to my Github. The home to my passion projects and experiments. 
 
-For the full picture, visit my portfolio at venturealex.com
+My three guiding principles:
+- **Curiosity** as the spark of innovation.
+- An **abundance mindset**.
+- A **bias toward execution**.
 
-Thank you!
+For the full picture, visit my [personal portfolio](https://venturealex.com)!
