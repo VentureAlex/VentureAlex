@@ -7,4 +7,4 @@ One, **Curiosity** as the spark of innovation.
 Two, **simplify** wherever possible.
 Three, move with a **bias toward execution**.
 
-For a full picture, visit my [personal portfolio](https://venturealex.com)
+Feel free to check out my [portfolio](https://venturealex.com). Thanks for stopping by!
