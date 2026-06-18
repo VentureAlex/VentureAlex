@@ -1,13 +1,15 @@
 Hi, I'm Alex!
 
-Welcome to my Github. The home to my passion projects and experiments. 
+Welcome to my GitHub! 
 
-I have three guiding principles in how I operate.
+The home to my passions and experiments.
 
-  One, **Curiosity** as the spark of innovation and drive towards passion.
+I have three guiding principles in how I operate:
 
-  Two, distill ideas to their simplest form for **maximum understanding and truth**.
+One, leverage curiosity as the spark of innovation and the drive toward passion.
 
-  Three, move with a **bias towards execution**.
+Two, distill ideas to their simplest form for maximum understanding and truth.
 
-Feel free to check out my [portfolio](https://venturealex.com). Thanks for stopping by!
+Three, move with a bias toward execution.
+
+Feel free to check out my portfolio. Thanks for stopping by!
