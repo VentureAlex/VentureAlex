@@ -7,4 +7,6 @@ Three principles guide how I operate:
  2. Distill ideas to their simplest form for truth and understanding.
  3. Move with a bias toward execution.
 
-Check out my portfolio at venturealex.com — and thanks for stopping by!
+Check out my portfolio at venturealex.com 
+
+Thanks for stopping by!
